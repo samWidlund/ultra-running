@@ -37,6 +37,14 @@ Plan and info about my personal ultra running, energy intake, pacing, gear, trai
 - Coffee
 - Cola
 
-Hot food will be available
+Hot food will be available every 20-30 km
+
+**bring myself**
+u gels
+u bars
+umara u salt
+snickers
+pbj sandswich
+
 
 ### Time
