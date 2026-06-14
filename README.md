@@ -14,11 +14,17 @@ Plan and info about my personal ultra running, energy intake, pacing, gear, trai
 - salamon adv skin 12
 - 4 x soft flasks
 
-### Must be bought
+## iMust be bought
 - emergency blanket https://www.jula.se/catalog/fritid/friluftsliv-och-camping/talta/talttillbehor/nodfilt-025194/
 - reusable cup?
 - 500 ml soft flask
 - shell jacket?
+- u gels
+- u gels caffeine
+- u bars
+- u salt pills
+- snickers
+- pbj
 
 ### Energy
 
