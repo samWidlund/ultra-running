@@ -14,16 +14,13 @@ Plan and info about my personal ultra running, energy intake, pacing, gear, trai
 - salamon adv skin 12
 - 4 x soft flasks
 
-
-### Pacing
-
 ### Must be bought
 - emergency blanket https://www.jula.se/catalog/fritid/friluftsliv-och-camping/talta/talttillbehor/nodfilt-025194/
 - reusable cup?
 - 500 ml soft flask
 - shell jacket?
 
-### Energy plan
+### Energy
 
 **Aid stations**
 
@@ -42,15 +39,14 @@ Plan and info about my personal ultra running, energy intake, pacing, gear, trai
 | Hållanparkeringen → Bygdegård Tänndalen | 5.7 |
 | Bygdegård Tänndalen → Ski Lodge Tänndalen | 6.2 |
 
-**Supplies**
+**Supplies form stations**
 - Water
 - U sport
 - Chips
 - Candy
 - Coffee
 - Cola
-
-Hot food will be available every 20-30 km
+* Hot food will be available every 20-30 km
 
 **bring myself**
 u gels
@@ -59,4 +55,14 @@ umara u salt
 snickers
 pbj sandswich
 
-### Time
+### Time / pacing
+Goal time is 24 h = 8:57 min per hm
+
+### Summary
+**90 g carbs / h**
+2 or 1 salt pill / h depending on weather
+2 gels / h = 48 gels
+    exchange some with u bars
+    intake real food at aid stations or when tired of gels
+bring snickers, pbj. unsure of how many
+
