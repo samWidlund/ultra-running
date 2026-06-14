@@ -65,10 +65,10 @@ Plan and info about my personal ultra running, energy intake, pacing, gear, trai
 Goal time is 24 h = 8:57 min per hm
 
 ### Summary
-**90 g carbs / h**
-2 or 1 salt pill / h depending on weather
-2 gels / h = 48 gels
-    exchange some with u bars
-    intake real food at aid stations or when tired of gels
-bring snickers, pbj. unsure of how many
+- **90 g carbs / h**
+- 2 or 1 salt pill / h depending on weather
+- 2 gels / h = 48 gels
+    - exchange some with u bars
+    - intake real food at aid stations or when tired of gels
+- bring snickers, pbj. unsure of how many
 
