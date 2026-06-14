@@ -5,10 +5,23 @@ Plan and info about my personal ultra running, energy intake, pacing, gear, trai
 ## Tänndalen 100 miles
 
 ### Gear
+- ullmax underställ as extra warm layer
+- craft wind/rain jacket
+- headlamp
+- powerbank small
+- charging cables
+- charging adapter for watch
+- salamon adv skin 12
+- 4 x soft flasks
+
 
 ### Pacing
 
 ### Must be bought
+- emergency blanket https://www.jula.se/catalog/fritid/friluftsliv-och-camping/talta/talttillbehor/nodfilt-025194/
+- reusable cup?
+- 500 ml soft flask
+- shell jacket?
 
 ### Energy plan
 
@@ -45,6 +58,5 @@ u bars
 umara u salt
 snickers
 pbj sandswich
-
 
 ### Time
