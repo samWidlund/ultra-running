@@ -14,7 +14,7 @@ Plan and info about my personal ultra running, energy intake, pacing, gear, trai
 - salamon adv skin 12
 - 4 x soft flasks
 
-## iMust be bought
+## Must be bought
 - emergency blanket https://www.jula.se/catalog/fritid/friluftsliv-och-camping/talta/talttillbehor/nodfilt-025194/
 - reusable cup?
 - 500 ml soft flask
@@ -55,11 +55,11 @@ Plan and info about my personal ultra running, energy intake, pacing, gear, trai
 * Hot food will be available every 20-30 km
 
 **bring myself**
-u gels
-u bars
-umara u salt
-snickers
-pbj sandswich
+- u gels
+- u bars
+- umara u salt
+- snickers
+- pbj sandswich
 
 ### Time / pacing
 Goal time is 24 h = 8:57 min per hm
