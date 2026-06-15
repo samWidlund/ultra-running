@@ -13,6 +13,8 @@ Plan and info about my personal ultra running, energy intake, pacing, gear, trai
 - charging adapter for watch
 - salamon adv skin 12
 - 4 x soft flasks
+- shorts (fixed)
+- shirt (fixed)
 
 ## Must be bought
 - emergency blanket https://www.jula.se/catalog/fritid/friluftsliv-och-camping/talta/talttillbehor/nodfilt-025194/
