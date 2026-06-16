@@ -23,6 +23,7 @@ Plan and info about my personal ultra running, energy intake, pacing, gear, trai
 - u gels caffeine
 - u bars
 - u salt pills
+- u sport drink
 - snickers
 - pbj
 
@@ -60,6 +61,7 @@ Hot food will be available every 20-30 km
 - umara u salt
 - snickers
 - pbj sandswich
+- initially u sport 2x500ml 
 
 ### Time / pacing
 Goal time is 24 h = 8:57 min per hm
