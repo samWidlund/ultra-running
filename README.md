@@ -52,7 +52,7 @@ Plan and info about my personal ultra running, energy intake, pacing, gear, trai
 - Candy
 - Coffee
 - Cola
-* Hot food will be available every 20-30 km
+Hot food will be available every 20-30 km
 
 **bring myself**
 - u gels
@@ -65,10 +65,12 @@ Plan and info about my personal ultra running, energy intake, pacing, gear, trai
 Goal time is 24 h = 8:57 min per hm
 
 ### Summary
-- **90 g carbs / h**
+- **75-90 g carbs / h**
 - 2 or 1 salt pill / h depending on weather
-- 2 gels / h = 48 gels
+- 1 u gel or 1 u bar / h 30 g carbs
     - exchange some with u bars
     - intake real food at aid stations or when tired of gels
 - bring snickers, pbj. unsure of how many
-
+- 500 ml sports drink refilled at aid stations, 45 g / h
+- fill upp 2x500ml with sports drink often as possible. 
+- 2x500ml with water
