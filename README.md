@@ -69,8 +69,7 @@ Goal time is 24 h = 8:57 min per hm
 ### Summary
 - **75-90 g carbs / h**
 - 2 or 1 salt pill / h depending on weather
-- 1 u gel or 1 u bar / h 30 g carbs
-    - exchange some with u bars
+- 1 u gel or 1 u bar / h = 30 g carbs
     - intake real food at aid stations or when tired of gels
 - bring snickers, pbj. unsure of how many
 - 500 ml sports drink refilled at aid stations, 45 g / h
