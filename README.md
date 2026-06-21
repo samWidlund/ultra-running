@@ -5,17 +5,47 @@ Plan and info about my personal ultra running, energy intake, pacing, gear, trai
 ## Tänndalen 100 miles
 
 ### Gear
+
+**Clothing**
 - ullmax underställ as extra warm layer
 - craft wind/rain jacket
-- headlamp
+- craft wind/rain pants
+- extra tnf wind/rain jacket
+- shorts
+- shirt
+    - extra shirt
+- brooks shoes
+    - extra shoes?
+- rain poncho
+
+**Tech**
+- headlamp (fully charged/new batteries)
 - powerbank small
 - charging cables
 - charging adapter for watch
+
+**Accessories**
 - salamon adv skin 12
-- 4 x soft flasks (fixed)
-- shorts (fixed)
-- shirt (fixed)
-- fresh pair of brooks glycerin (bought)
+- 4 x soft flasks
+    - 250 ml soft flask?
+- emergency blanket
+- Chafe cream
+- Chafe tape
+
+**Energy**
+- normal gels
+- caffeine gels
+- u sport bars
+- u salt pills
+- sports drink
+
+## Mandatory gear
+- [x] An extra warm layer
+- [x] An emergency blanket
+- [x] A personal cup for coffee, Coca-Cola, etc., at aid stations
+- [x] A fully charged mobile phone with the following emergency contacts saved
+- [ ] waterproof shell jacket (if you are wearing your shell jacket at the start, no
+additional jacket is required)
 
 ## Must be bought
 - shell jacket?
